@@ -9,11 +9,26 @@ To write a python program to find the distance two 2 points
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
+## DEVELOPED BY: N.PRAVESH
+## REGISTER NO: 212223230154
 ### PROGRAM:
-  
 
+```
+import math
+x1 = 10
+x2 = 4
+y1 = 6
+y2 = 2
+inside_the_root_simplification = pow((x2 - x1),2) + pow((y2 - y1),2)
+distance = math.sqrt(inside_the_root_simplification)
+print("%.2f"%d)
+```  
 
 ### OUTPUT:
 
+![Screenshot 2024-03-17 191807](https://github.com/NPravesh2005/DISTANCE-BETWEEN-TWO-POINTS/assets/164477756/a49e401c-c810-49db-84ee-25a2340dad33)
+
 
 ### RESULT:
+
+Thus the distance between two points is calculated with the aid of python programming
