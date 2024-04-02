@@ -9,11 +9,11 @@ To write a python program to find the distance two 2 points
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
-## DEVELOPED BY: N.PRAVESH
-## REGISTER NO: 212223230154
+### DEVELOPED BY: N.PRAVESH
+### REGISTER NO: 212223230154
 ### PROGRAM:
 
-```
+```python
 import math
 x1 = 10
 x2 = 4
