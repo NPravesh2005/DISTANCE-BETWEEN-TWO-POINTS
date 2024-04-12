@@ -18,6 +18,9 @@ End the program
 ### PROGRAM:
 
 ```python
+#Program to calculate distance between two points
+#Developed by : N.PRAVESH
+#Register no : 212223230154
 import math
 x1 = 10
 x2 = 4
